@@ -11,6 +11,8 @@
 # MAGIC ## Transform Data with Spark SQL
 # MAGIC This module is part of the Data Engineer Learning Path by Databricks Academy, and can be taken in SQL or Python.
 # MAGIC 
+# MAGIC #### - Change for comment in this line and update to git -
+# MAGIC 
 # MAGIC #### Extracting Data
 # MAGIC These notebooks demonstrate Spark SQL concepts relevant to both SQL and PySpark users.  
 # MAGIC 
